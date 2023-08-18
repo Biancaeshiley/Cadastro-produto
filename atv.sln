@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atvi.Aluno", "Atvi.Aluno\Atvi.Aluno.csproj", "{BBE482D5-8217-4BEA-ABBE-7B19EED6AB03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conta", "atv\Conta.csproj", "{06507E80-A22A-4196-B6EE-7200262AC7D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BBE482D5-8217-4BEA-ABBE-7B19EED6AB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BBE482D5-8217-4BEA-ABBE-7B19EED6AB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BBE482D5-8217-4BEA-ABBE-7B19EED6AB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BBE482D5-8217-4BEA-ABBE-7B19EED6AB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06507E80-A22A-4196-B6EE-7200262AC7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06507E80-A22A-4196-B6EE-7200262AC7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06507E80-A22A-4196-B6EE-7200262AC7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06507E80-A22A-4196-B6EE-7200262AC7D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8FF12118-9D8D-4273-956C-6D1EBB1EFA36}
+		SolutionGuid = {CA77F9C9-DCEB-4931-94A9-7132FB81B11E}
 	EndGlobalSection
 EndGlobal
